@@ -25,3 +25,13 @@ This file sharing site was a project for my rapid protoype and development class
 **Link**
 http://ec2-3-144-174-85.us-east-2.compute.amazonaws.com/tlaHome.php
 
+**Login Info**
+Username: test1
+Password: test1
+
+Username: test2
+Password: test2
+
+Both are case sensitive
+
+
